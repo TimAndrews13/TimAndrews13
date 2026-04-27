@@ -1,7 +1,7 @@
 ## Hi, I'm Tim Andrews
 
 - 🔭 I’m currently working on a daily NBA Game called DoYouKnowBall (name pending)
-- 🌱 I’m currently learning building backend systems with Go
+- 🌱 I’m currently learning how to build backend systems with Go
 - 📫 How to reach me: andrews.timothya@gmail.com
 
 <!--
